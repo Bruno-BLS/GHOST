@@ -1,0 +1,14 @@
+C:\dev\DotnetLista\bin\Debug\net10.0\DotnetLista.exe
+C:\dev\DotnetLista\bin\Debug\net10.0\DotnetLista.deps.json
+C:\dev\DotnetLista\bin\Debug\net10.0\DotnetLista.runtimeconfig.json
+C:\dev\DotnetLista\bin\Debug\net10.0\DotnetLista.dll
+C:\dev\DotnetLista\bin\Debug\net10.0\DotnetLista.pdb
+C:\dev\DotnetLista\obj\Debug\net10.0\DotnetLista.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\DotnetLista\obj\Debug\net10.0\DotnetLista.AssemblyInfoInputs.cache
+C:\dev\DotnetLista\obj\Debug\net10.0\DotnetLista.AssemblyInfo.cs
+C:\dev\DotnetLista\obj\Debug\net10.0\DotnetLista.csproj.CoreCompileInputs.cache
+C:\dev\DotnetLista\obj\Debug\net10.0\DotnetLista.dll
+C:\dev\DotnetLista\obj\Debug\net10.0\refint\DotnetLista.dll
+C:\dev\DotnetLista\obj\Debug\net10.0\DotnetLista.pdb
+C:\dev\DotnetLista\obj\Debug\net10.0\DotnetLista.genruntimeconfig.cache
+C:\dev\DotnetLista\obj\Debug\net10.0\ref\DotnetLista.dll
