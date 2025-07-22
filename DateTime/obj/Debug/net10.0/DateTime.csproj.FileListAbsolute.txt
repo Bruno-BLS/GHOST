@@ -1,0 +1,14 @@
+C:\dev\DateTime\bin\Debug\net10.0\DateTime.exe
+C:\dev\DateTime\bin\Debug\net10.0\DateTime.deps.json
+C:\dev\DateTime\bin\Debug\net10.0\DateTime.runtimeconfig.json
+C:\dev\DateTime\bin\Debug\net10.0\DateTime.dll
+C:\dev\DateTime\bin\Debug\net10.0\DateTime.pdb
+C:\dev\DateTime\obj\Debug\net10.0\DateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\DateTime\obj\Debug\net10.0\DateTime.AssemblyInfoInputs.cache
+C:\dev\DateTime\obj\Debug\net10.0\DateTime.AssemblyInfo.cs
+C:\dev\DateTime\obj\Debug\net10.0\DateTime.csproj.CoreCompileInputs.cache
+C:\dev\DateTime\obj\Debug\net10.0\DateTime.dll
+C:\dev\DateTime\obj\Debug\net10.0\refint\DateTime.dll
+C:\dev\DateTime\obj\Debug\net10.0\DateTime.pdb
+C:\dev\DateTime\obj\Debug\net10.0\DateTime.genruntimeconfig.cache
+C:\dev\DateTime\obj\Debug\net10.0\ref\DateTime.dll
